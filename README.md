@@ -23,7 +23,7 @@ Artist
 
 The following is a screenshot of running this command
 
-insert image here
+Refer to screenshot folder/pic1
 
 spotify-this-song useses spotifys official api along with a spotify node module to retrieve the information.
 
@@ -35,7 +35,7 @@ Name, location, date.
 
 The following is a screenshot of running this command
 
-insert image here
+Refer to screenshot folder/pic2
 
 #### movie-this 
 movie-this uses axios to connect to the omdbapi API. It takes in one argument: the name of the movie.
@@ -46,7 +46,7 @@ Title, year, IMDB rating, Rotten Tomatoes Rating, Country, Language, Plot, Actor
 
 Here is a screenshot of running this command
 
-insert image here
+Refer to screenshot folder/pic3
 
 #### do-what-it-says
 do-what-it-says is the wild card of the commands. It picks a random command from a pre-set of commands in random.txt and runs it.
@@ -54,11 +54,11 @@ do-what-it-says does not take in an argument. So an example run of do-what-it-sa
 
 Here is a screenshot of what a do-what-it-says command would look like
 
-insert image here
+Refer to screenshot folder/pic4
 
 ## Link to App
 
-insert github link here
+https://github.com/13EdMc07/liri-node-app
 
 ## Technologies
 
